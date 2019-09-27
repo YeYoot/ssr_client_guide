@@ -2,7 +2,7 @@
 
 ## 下载软件
 
-1. 下载软件：<https://github.com/YeYoot/ssr_client_guide/blob/master/resource/Windows/ShadowsocksR-4.7.0-win.7z>
+1. 下载软件：<https://github.com/YeYoot/ssr_client_guide/raw/master/resource/Windows/ShadowsocksR-4.7.0-win.7z>
 
 ## 使用说明
 
