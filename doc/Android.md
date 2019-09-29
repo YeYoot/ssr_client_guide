@@ -2,7 +2,7 @@
 
 ## 下载软件
 
-1. 下载软件：<https://github.com/YeYoot/ssr_client_guide/blob/master/resource/Android/Android-7.0-SSR.apk>
+1. 下载软件：<https://github.com/YeYoot/ssr_client_guide/raw/master/resource/Android/Android-7.0-SSR.apk>
 2. 在安卓手机上安装好
 
 ## 使用说明
