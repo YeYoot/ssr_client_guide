@@ -2,16 +2,16 @@
 
 ## 下载软件
 
-1. 下载软件：<https://github.com/YeYoot/ssr_tools/tree/master/client_guide/resource/Mac/ShadowsocksX-NG-R8.dmg>
+1. 下载软件：<https://github.com/YeYoot/ssr_client_guide/raw/master/resource/Mac/ShadowsocksX-NG-R8.dmg>
 
 ## 使用说明
 
 1. 第1，2步：
-   ![图1](https://github.com/YeYoot/ssr_tools/blob/master/client_guide/resource/Mac/%E5%9B%BE%E7%89%871.png)
+   ![图1](https://github.com/YeYoot/ssr_client_guide/blob/master/resource/Mac/%E5%9B%BE%E7%89%871.png)
 2. 第3步：
-   ![图1](https://github.com/YeYoot/ssr_tools/blob/master/client_guide/resource/Mac/%E5%9B%BE%E7%89%872.png)
+   ![图1](https://github.com/YeYoot/ssr_client_guide/blob/master/resource/Mac/%E5%9B%BE%E7%89%872.png)
 3. 第4步：在服务器设置里添加IP ,端口, 密码等信息，然后点打开 shadowsocks。
-   ![图1](https://github.com/YeYoot/ssr_tools/blob/master/client_guide/resource/Mac/%E5%9B%BE%E7%89%873.png)
+   ![图1](https://github.com/YeYoot/ssr_client_guide/blob/master/resource/Mac/%E5%9B%BE%E7%89%873.png)
 
 ## 测试
 
