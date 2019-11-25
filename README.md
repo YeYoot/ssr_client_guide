@@ -1,11 +1,13 @@
 # ssr_client_guide
-ShadowsocksR客户端的使用说明，包括Windows，Android，IOS，Linux，Mac等。提供软件安装包
+ShadowsocksR 以及 V2ray 客户端的使用说明，包括Windows，Android，IOS，Linux，Mac等。提供软件安装包
 
-## Wiki
+## V2ray客户端使用教程
 
-**使用教程见Wiki：**<https://github.com/YeYoot/ssr_client_guide/wiki>
+[https://github.com/YeYoot/ssr_client_guide/wiki/V2ray客户端使用教程](https://github.com/YeYoot/ssr_client_guide/wiki/V2ray%E5%AE%A2%E6%88%B7%E7%AB%AF%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B)
 
+## SSR 客户端使用说明
 
+[https://github.com/YeYoot/ssr_client_guide/wiki/SSR客户端使用教程](https://github.com/YeYoot/ssr_client_guide/wiki/SSR%E5%AE%A2%E6%88%B7%E7%AB%AF%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B)
 
 ## 其他工具
 
