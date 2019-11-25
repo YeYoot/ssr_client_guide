@@ -20,7 +20,7 @@
 
 3. 点击左下角的状态，点击连接按钮即可
 
-   ![p3](https://github.com/YeYoot/ssr_client_guide/blob/master/v2ray/pic/I04.png?raw=true)
+   ![p3](https://github.com/YeYoot/ssr_client_guide/blob/master/v2ray/pic/I04.jpg?raw=true)
 
 ## 测试
 
