@@ -1,6 +1,6 @@
 # Mac客户端使用说明
 
-## 下载软件
+## 下载软件（方法一）
 
 1. 下载地址：<https://github.com/Cenmrev/V2RayX/releases> 
 
@@ -12,7 +12,7 @@
 
 3. 安裝完成后，可进入 `launchpad`，找到V2RayX图标打开。
 
-## 使用说明
+## 使用说明（方法一）
 
 1. 打开V2RayX应用程序，点击右上角任务栏中的图标，调用出菜单，点击“Configure”开始进行配置。
 
@@ -29,6 +29,14 @@
 4. 首先确认刚才的配置已添加，即Servers那一栏有刚才添加的配置，第二确认模式是PAC模式，第三步则是点击Load core，开启软件。
 
    ![](https://github.com/YeYoot/ssr_client_guide/blob/master/v2ray/pic/M06.png?raw=true)
+
+## 方法二
+
+如果方法一不行，可以尝试使用方法二的软件，使用方法及下载地址见项目说明：
+
+```
+https://github.com/yanue/V2rayU
+```
 
 ## 测试
 
