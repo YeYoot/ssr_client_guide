@@ -7,10 +7,16 @@
 ## 使用说明
 
 1. 解压文件，双击打开v2rayN.exe文件
+
+
+
    ![图1](https://github.com/YeYoot/ssr_client_guide/blob/master/v2ray/pic/W01.png?raw=true)
 
 2. 点击左上角服务器，点击add trojan server
-   ![](https://github.com/YeYoot/ssr_client_guide/blob/master/trojan/pic/trojan-win01.png?raw=true)
+
+
+
+   ![图2](https://github.com/YeYoot/ssr_client_guide/blob/master/trojan/pic/trojan-win01.png?raw=true)
 
 3. 在弹处的输入框中，填入服务器的信息
 
@@ -22,11 +28,11 @@
 
    - alias别名选填
 
-     ![](https://github.com/YeYoot/ssr_client_guide/blob/master/trojan/pic/trojan-win02.png?raw=true)
+     ![图3](https://github.com/YeYoot/ssr_client_guide/blob/master/trojan/pic/trojan-win02.png?raw=true)
 
 4. 在任务栏托盘找到 V2RayN 图标并鼠标右键，首先选择启用http代理，然后选择 Http代理 -> 开启PAC,*(PAC模式)
 
-   ![](https://github.com/YeYoot/ssr_client_guide/blob/master/trojan/pic/trojan-win03.png?raw=true)
+   ![图4](https://github.com/YeYoot/ssr_client_guide/blob/master/trojan/pic/trojan-win03.png?raw=true)
 
 5. 如果是第一次使用遇到不成功的情况，多退出重启几次软件即可。
 
