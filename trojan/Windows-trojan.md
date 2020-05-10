@@ -2,7 +2,7 @@
 
 ## 下载软件
 
-1. 下载软件：https://github.com/YeYoot/ssr_client_guide/raw/master/trojan/software/v2rayN-win-with-trojan-v2.zip
+1. 下载软件：<https://github.com/YeYoot/ssr_client_guide/blob/master/trojan/software/v2rayN-win-with-trojan-v2.zip>
 
 ## 使用说明
 

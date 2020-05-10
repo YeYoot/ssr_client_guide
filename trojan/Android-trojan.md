@@ -4,7 +4,7 @@
 
 ## 下载软件
 
-1. 下载地址：https://github.com/YeYoot/ssr_client_guide/raw/master/trojan/software/igniter-v0.9.3.zip
+1. 下载地址：https://github.com/YeYoot/ssr_client_guide/blob/master/trojan/software/igniter-v0.9.3.apk
 
 
 ## 使用说明
